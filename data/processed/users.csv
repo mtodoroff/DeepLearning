@@ -1,0 +1,601 @@
+user_id,age,experience_years,risk_profile,preferred_sector,investment_horizon
+U00001,36,5,balanced,Consumer,long
+U00002,67,7,conservative,Consumer,long
+U00003,27,7,conservative,Technology,medium
+U00004,67,3,aggressive,Utilities,short
+U00005,45,4,balanced,Technology,long
+U00006,23,4,conservative,Real Estate,medium
+U00007,28,12,aggressive,Healthcare,medium
+U00008,56,1,conservative,Real Estate,long
+U00009,49,9,balanced,Energy,long
+U00010,39,10,balanced,Energy,medium
+U00011,53,15,aggressive,Real Estate,short
+U00012,53,13,aggressive,Real Estate,medium
+U00013,41,7,conservative,Technology,medium
+U00014,67,0,conservative,Consumer,medium
+U00015,42,14,balanced,Consumer,long
+U00016,47,6,conservative,Consumer,long
+U00017,70,11,balanced,Financials,medium
+U00018,66,9,aggressive,Financials,short
+U00019,64,2,aggressive,Consumer,medium
+U00020,57,8,balanced,Technology,medium
+U00021,70,12,balanced,Consumer,medium
+U00022,56,1,aggressive,Industrials,short
+U00023,40,8,balanced,Real Estate,long
+U00024,53,5,aggressive,Financials,short
+U00025,68,9,aggressive,Consumer,medium
+U00026,66,6,conservative,Utilities,long
+U00027,46,0,conservative,Consumer,long
+U00028,21,2,aggressive,Financials,short
+U00029,67,0,conservative,Industrials,medium
+U00030,44,1,balanced,Healthcare,medium
+U00031,23,10,balanced,Healthcare,long
+U00032,54,2,balanced,Financials,long
+U00033,33,1,conservative,Financials,medium
+U00034,30,8,balanced,Consumer,medium
+U00035,44,10,balanced,Energy,long
+U00036,24,4,conservative,Industrials,medium
+U00037,39,13,balanced,Utilities,medium
+U00038,61,1,balanced,Energy,medium
+U00039,40,8,balanced,Real Estate,long
+U00040,66,12,balanced,Healthcare,long
+U00041,60,2,balanced,Energy,medium
+U00042,31,6,conservative,Healthcare,medium
+U00043,48,8,balanced,Energy,long
+U00044,61,1,conservative,Utilities,medium
+U00045,34,3,balanced,Financials,long
+U00046,63,6,conservative,Industrials,medium
+U00047,22,11,balanced,Technology,long
+U00048,44,8,aggressive,Healthcare,medium
+U00049,28,3,conservative,Industrials,long
+U00050,49,0,conservative,Healthcare,medium
+U00051,33,6,balanced,Financials,long
+U00052,24,7,balanced,Financials,medium
+U00053,47,7,balanced,Real Estate,long
+U00054,33,5,conservative,Healthcare,medium
+U00055,59,1,conservative,Consumer,medium
+U00056,70,8,aggressive,Healthcare,medium
+U00057,62,5,balanced,Consumer,long
+U00058,36,10,balanced,Industrials,medium
+U00059,52,9,aggressive,Financials,medium
+U00060,28,1,aggressive,Utilities,short
+U00061,47,2,aggressive,Financials,short
+U00062,29,13,balanced,Real Estate,long
+U00063,48,0,conservative,Energy,medium
+U00064,24,5,conservative,Utilities,medium
+U00065,24,5,balanced,Healthcare,long
+U00066,56,12,balanced,Energy,medium
+U00067,51,9,balanced,Consumer,medium
+U00068,23,13,aggressive,Financials,medium
+U00069,58,9,aggressive,Energy,short
+U00070,47,6,balanced,Utilities,medium
+U00071,26,4,conservative,Utilities,long
+U00072,49,8,balanced,Technology,medium
+U00073,29,7,aggressive,Technology,medium
+U00074,52,1,aggressive,Technology,short
+U00075,66,5,balanced,Energy,long
+U00076,60,3,balanced,Healthcare,long
+U00077,22,15,aggressive,Utilities,medium
+U00078,31,10,balanced,Consumer,long
+U00079,39,7,balanced,Technology,medium
+U00080,37,9,balanced,Consumer,long
+U00081,26,10,balanced,Financials,medium
+U00082,55,6,balanced,Industrials,medium
+U00083,67,2,aggressive,Industrials,medium
+U00084,50,7,balanced,Financials,medium
+U00085,39,13,aggressive,Technology,medium
+U00086,36,12,balanced,Consumer,long
+U00087,23,11,balanced,Technology,medium
+U00088,26,12,balanced,Financials,long
+U00089,24,6,balanced,Energy,long
+U00090,70,4,conservative,Industrials,long
+U00091,51,8,aggressive,Utilities,short
+U00092,28,4,conservative,Utilities,medium
+U00093,49,13,balanced,Healthcare,medium
+U00094,30,14,balanced,Healthcare,long
+U00095,63,5,conservative,Utilities,medium
+U00096,50,1,aggressive,Energy,short
+U00097,40,5,balanced,Financials,medium
+U00098,41,5,conservative,Energy,long
+U00099,38,1,balanced,Industrials,medium
+U00100,54,13,aggressive,Utilities,medium
+U00101,63,12,balanced,Energy,medium
+U00102,69,14,aggressive,Financials,short
+U00103,34,11,aggressive,Real Estate,medium
+U00104,25,2,conservative,Technology,long
+U00105,58,6,balanced,Real Estate,long
+U00106,49,3,conservative,Healthcare,medium
+U00107,47,5,conservative,Energy,long
+U00108,56,10,aggressive,Consumer,short
+U00109,56,12,aggressive,Utilities,medium
+U00110,55,7,balanced,Real Estate,long
+U00111,27,2,balanced,Real Estate,long
+U00112,37,7,conservative,Healthcare,long
+U00113,32,15,balanced,Energy,medium
+U00114,24,4,balanced,Energy,long
+U00115,66,10,aggressive,Utilities,medium
+U00116,29,1,balanced,Energy,long
+U00117,49,11,aggressive,Industrials,medium
+U00118,57,10,aggressive,Industrials,short
+U00119,22,1,balanced,Healthcare,medium
+U00120,54,15,aggressive,Financials,short
+U00121,69,10,balanced,Technology,long
+U00122,62,15,balanced,Financials,long
+U00123,38,1,balanced,Financials,long
+U00124,29,1,aggressive,Healthcare,medium
+U00125,50,6,balanced,Energy,long
+U00126,50,1,balanced,Financials,medium
+U00127,53,10,aggressive,Utilities,short
+U00128,60,6,balanced,Healthcare,long
+U00129,54,1,balanced,Technology,long
+U00130,51,9,aggressive,Energy,short
+U00131,42,15,aggressive,Utilities,short
+U00132,56,6,balanced,Healthcare,long
+U00133,61,8,balanced,Utilities,medium
+U00134,21,0,conservative,Technology,long
+U00135,70,4,conservative,Technology,long
+U00136,29,11,balanced,Financials,medium
+U00137,68,1,conservative,Industrials,medium
+U00138,63,7,aggressive,Energy,medium
+U00139,43,2,conservative,Utilities,long
+U00140,62,5,conservative,Financials,medium
+U00141,22,2,balanced,Healthcare,medium
+U00142,48,1,balanced,Healthcare,long
+U00143,26,6,conservative,Healthcare,medium
+U00144,34,5,conservative,Financials,long
+U00145,52,10,aggressive,Healthcare,short
+U00146,67,11,balanced,Industrials,medium
+U00147,55,3,aggressive,Technology,short
+U00148,53,6,conservative,Consumer,long
+U00149,59,2,aggressive,Energy,medium
+U00150,36,7,conservative,Real Estate,medium
+U00151,58,15,balanced,Healthcare,long
+U00152,63,3,aggressive,Energy,medium
+U00153,61,7,conservative,Energy,medium
+U00154,35,2,conservative,Consumer,medium
+U00155,54,10,balanced,Energy,medium
+U00156,26,14,balanced,Technology,medium
+U00157,58,14,balanced,Financials,long
+U00158,54,10,balanced,Utilities,medium
+U00159,42,15,aggressive,Real Estate,medium
+U00160,53,2,balanced,Healthcare,medium
+U00161,63,13,aggressive,Technology,short
+U00162,59,7,aggressive,Utilities,medium
+U00163,41,10,aggressive,Industrials,short
+U00164,61,11,balanced,Technology,medium
+U00165,55,2,conservative,Industrials,medium
+U00166,51,7,aggressive,Technology,medium
+U00167,44,5,balanced,Real Estate,long
+U00168,27,13,aggressive,Energy,short
+U00169,24,5,conservative,Consumer,medium
+U00170,68,3,conservative,Technology,long
+U00171,67,3,balanced,Healthcare,long
+U00172,40,11,balanced,Real Estate,long
+U00173,30,4,conservative,Real Estate,long
+U00174,70,12,aggressive,Utilities,medium
+U00175,40,9,balanced,Utilities,long
+U00176,41,3,conservative,Technology,long
+U00177,58,1,conservative,Industrials,long
+U00178,32,2,conservative,Industrials,medium
+U00179,22,11,balanced,Financials,medium
+U00180,21,6,aggressive,Real Estate,short
+U00181,57,3,balanced,Utilities,long
+U00182,70,7,balanced,Real Estate,medium
+U00183,55,1,aggressive,Consumer,short
+U00184,35,15,balanced,Real Estate,medium
+U00185,54,4,conservative,Industrials,medium
+U00186,70,11,balanced,Industrials,medium
+U00187,29,7,conservative,Energy,long
+U00188,22,6,conservative,Technology,long
+U00189,38,1,conservative,Technology,medium
+U00190,37,0,conservative,Energy,medium
+U00191,25,3,balanced,Utilities,long
+U00192,54,15,balanced,Technology,long
+U00193,70,1,aggressive,Industrials,short
+U00194,48,3,balanced,Energy,long
+U00195,39,8,aggressive,Industrials,medium
+U00196,28,3,aggressive,Utilities,short
+U00197,64,7,balanced,Utilities,medium
+U00198,42,4,conservative,Utilities,medium
+U00199,28,1,conservative,Consumer,long
+U00200,40,8,aggressive,Technology,short
+U00201,51,3,balanced,Real Estate,medium
+U00202,23,2,balanced,Consumer,medium
+U00203,57,7,balanced,Financials,long
+U00204,46,5,conservative,Technology,medium
+U00205,31,13,aggressive,Utilities,short
+U00206,22,9,balanced,Utilities,long
+U00207,63,14,balanced,Energy,long
+U00208,26,6,balanced,Real Estate,medium
+U00209,39,5,balanced,Technology,long
+U00210,39,14,balanced,Financials,long
+U00211,44,1,balanced,Utilities,long
+U00212,32,6,conservative,Utilities,long
+U00213,56,7,balanced,Real Estate,long
+U00214,62,14,aggressive,Utilities,short
+U00215,68,8,balanced,Utilities,medium
+U00216,33,1,conservative,Technology,long
+U00217,30,12,balanced,Healthcare,medium
+U00218,70,14,balanced,Consumer,long
+U00219,43,2,conservative,Healthcare,long
+U00220,64,7,balanced,Financials,medium
+U00221,58,1,conservative,Real Estate,medium
+U00222,39,4,aggressive,Healthcare,short
+U00223,68,15,balanced,Healthcare,medium
+U00224,70,3,aggressive,Real Estate,medium
+U00225,50,4,conservative,Financials,medium
+U00226,55,0,conservative,Real Estate,long
+U00227,23,7,aggressive,Real Estate,medium
+U00228,21,13,balanced,Utilities,long
+U00229,29,1,aggressive,Consumer,short
+U00230,62,7,conservative,Utilities,medium
+U00231,59,7,conservative,Utilities,long
+U00232,62,7,aggressive,Energy,short
+U00233,38,7,conservative,Healthcare,medium
+U00234,64,14,balanced,Utilities,long
+U00235,37,6,conservative,Financials,long
+U00236,67,10,balanced,Energy,long
+U00237,61,4,conservative,Consumer,long
+U00238,33,11,balanced,Consumer,long
+U00239,21,1,conservative,Technology,long
+U00240,29,7,balanced,Real Estate,long
+U00241,65,1,balanced,Utilities,long
+U00242,37,12,aggressive,Energy,short
+U00243,38,14,aggressive,Energy,short
+U00244,46,4,balanced,Consumer,long
+U00245,62,2,aggressive,Utilities,short
+U00246,64,10,balanced,Utilities,medium
+U00247,49,4,conservative,Consumer,long
+U00248,26,0,conservative,Healthcare,long
+U00249,33,6,conservative,Financials,long
+U00250,67,6,balanced,Utilities,medium
+U00251,61,6,balanced,Technology,long
+U00252,30,3,balanced,Utilities,medium
+U00253,69,6,balanced,Real Estate,long
+U00254,58,14,balanced,Utilities,medium
+U00255,56,1,conservative,Utilities,medium
+U00256,70,13,aggressive,Healthcare,short
+U00257,30,14,balanced,Real Estate,medium
+U00258,65,4,conservative,Healthcare,medium
+U00259,46,10,balanced,Real Estate,long
+U00260,70,9,balanced,Consumer,long
+U00261,42,5,balanced,Technology,long
+U00262,48,15,balanced,Consumer,long
+U00263,21,1,balanced,Financials,medium
+U00264,44,0,conservative,Healthcare,medium
+U00265,68,7,aggressive,Utilities,medium
+U00266,68,7,balanced,Industrials,long
+U00267,42,0,conservative,Financials,medium
+U00268,60,7,conservative,Healthcare,medium
+U00269,32,13,balanced,Utilities,long
+U00270,36,14,balanced,Industrials,medium
+U00271,44,14,aggressive,Consumer,short
+U00272,38,2,conservative,Consumer,medium
+U00273,36,15,balanced,Financials,long
+U00274,61,11,aggressive,Industrials,short
+U00275,61,8,balanced,Consumer,medium
+U00276,57,10,balanced,Financials,long
+U00277,40,4,conservative,Consumer,medium
+U00278,22,9,balanced,Financials,long
+U00279,49,6,conservative,Healthcare,medium
+U00280,62,7,balanced,Healthcare,long
+U00281,43,7,conservative,Consumer,medium
+U00282,47,4,aggressive,Healthcare,short
+U00283,47,2,balanced,Technology,medium
+U00284,26,11,aggressive,Energy,medium
+U00285,49,15,balanced,Financials,medium
+U00286,33,9,balanced,Industrials,long
+U00287,24,10,balanced,Industrials,medium
+U00288,34,0,conservative,Utilities,medium
+U00289,66,11,balanced,Consumer,medium
+U00290,53,11,aggressive,Industrials,short
+U00291,25,4,conservative,Industrials,medium
+U00292,68,1,conservative,Technology,long
+U00293,67,6,conservative,Technology,long
+U00294,39,3,conservative,Utilities,long
+U00295,35,6,balanced,Real Estate,long
+U00296,35,3,aggressive,Healthcare,medium
+U00297,66,6,balanced,Real Estate,long
+U00298,25,13,balanced,Real Estate,medium
+U00299,48,1,aggressive,Utilities,short
+U00300,54,5,aggressive,Industrials,short
+U00301,51,7,conservative,Real Estate,long
+U00302,48,2,conservative,Technology,long
+U00303,25,2,aggressive,Healthcare,short
+U00304,28,3,aggressive,Technology,short
+U00305,70,15,aggressive,Technology,medium
+U00306,23,8,aggressive,Consumer,short
+U00307,56,9,balanced,Healthcare,long
+U00308,31,4,balanced,Financials,long
+U00309,37,1,balanced,Energy,long
+U00310,59,10,balanced,Utilities,medium
+U00311,27,15,balanced,Consumer,long
+U00312,56,3,conservative,Industrials,long
+U00313,46,11,aggressive,Healthcare,medium
+U00314,52,9,balanced,Financials,medium
+U00315,52,0,conservative,Technology,medium
+U00316,36,15,balanced,Industrials,long
+U00317,25,10,balanced,Consumer,long
+U00318,46,11,balanced,Energy,long
+U00319,35,9,aggressive,Utilities,short
+U00320,50,4,conservative,Healthcare,long
+U00321,34,5,aggressive,Utilities,medium
+U00322,51,13,balanced,Real Estate,long
+U00323,70,5,conservative,Consumer,medium
+U00324,41,2,balanced,Financials,medium
+U00325,42,7,aggressive,Real Estate,short
+U00326,24,5,balanced,Healthcare,medium
+U00327,41,7,balanced,Real Estate,long
+U00328,48,15,balanced,Financials,long
+U00329,26,8,aggressive,Consumer,short
+U00330,34,5,balanced,Real Estate,long
+U00331,66,7,balanced,Energy,medium
+U00332,69,5,balanced,Energy,long
+U00333,68,9,balanced,Utilities,medium
+U00334,60,1,conservative,Energy,medium
+U00335,51,5,balanced,Industrials,long
+U00336,26,3,balanced,Consumer,medium
+U00337,21,2,conservative,Real Estate,long
+U00338,66,0,conservative,Real Estate,long
+U00339,55,12,balanced,Healthcare,long
+U00340,31,14,balanced,Industrials,medium
+U00341,63,5,aggressive,Financials,short
+U00342,51,10,balanced,Consumer,long
+U00343,51,1,balanced,Technology,medium
+U00344,53,7,conservative,Real Estate,medium
+U00345,58,0,conservative,Financials,long
+U00346,38,3,conservative,Consumer,long
+U00347,25,8,balanced,Financials,long
+U00348,26,7,conservative,Real Estate,medium
+U00349,27,8,aggressive,Consumer,short
+U00350,42,3,conservative,Financials,medium
+U00351,37,4,balanced,Utilities,medium
+U00352,27,4,balanced,Energy,medium
+U00353,22,2,balanced,Healthcare,medium
+U00354,24,12,balanced,Technology,long
+U00355,31,1,aggressive,Utilities,medium
+U00356,31,9,aggressive,Utilities,medium
+U00357,44,1,conservative,Consumer,long
+U00358,28,15,balanced,Industrials,medium
+U00359,65,15,aggressive,Real Estate,medium
+U00360,31,3,conservative,Technology,long
+U00361,47,1,balanced,Utilities,medium
+U00362,63,2,aggressive,Real Estate,medium
+U00363,28,5,conservative,Consumer,long
+U00364,29,0,conservative,Energy,long
+U00365,23,9,aggressive,Industrials,medium
+U00366,33,2,balanced,Consumer,long
+U00367,58,5,balanced,Real Estate,medium
+U00368,70,10,aggressive,Real Estate,short
+U00369,33,7,aggressive,Consumer,short
+U00370,63,11,balanced,Industrials,long
+U00371,60,1,aggressive,Utilities,medium
+U00372,30,14,balanced,Real Estate,medium
+U00373,37,4,balanced,Industrials,long
+U00374,38,5,conservative,Real Estate,long
+U00375,56,11,balanced,Utilities,long
+U00376,43,4,conservative,Energy,medium
+U00377,52,15,balanced,Industrials,long
+U00378,49,13,aggressive,Industrials,medium
+U00379,29,5,conservative,Consumer,medium
+U00380,61,5,balanced,Healthcare,long
+U00381,63,4,conservative,Financials,medium
+U00382,38,5,conservative,Financials,long
+U00383,59,4,balanced,Consumer,long
+U00384,52,2,balanced,Utilities,medium
+U00385,52,8,aggressive,Consumer,short
+U00386,63,7,aggressive,Real Estate,short
+U00387,48,1,balanced,Financials,medium
+U00388,39,6,conservative,Utilities,long
+U00389,36,11,balanced,Financials,medium
+U00390,43,0,conservative,Real Estate,medium
+U00391,28,14,aggressive,Energy,medium
+U00392,31,12,balanced,Consumer,medium
+U00393,54,11,aggressive,Real Estate,medium
+U00394,27,5,conservative,Consumer,medium
+U00395,45,5,balanced,Technology,medium
+U00396,32,15,aggressive,Utilities,medium
+U00397,61,4,conservative,Technology,long
+U00398,53,14,aggressive,Industrials,medium
+U00399,31,7,conservative,Industrials,medium
+U00400,33,2,aggressive,Technology,short
+U00401,34,3,aggressive,Industrials,short
+U00402,54,8,balanced,Real Estate,medium
+U00403,22,2,aggressive,Utilities,short
+U00404,31,3,aggressive,Industrials,short
+U00405,61,7,aggressive,Healthcare,short
+U00406,60,6,conservative,Industrials,medium
+U00407,68,2,conservative,Technology,long
+U00408,54,15,balanced,Consumer,long
+U00409,42,2,aggressive,Industrials,medium
+U00410,64,5,balanced,Technology,long
+U00411,55,5,balanced,Real Estate,medium
+U00412,56,6,balanced,Healthcare,medium
+U00413,54,6,balanced,Real Estate,medium
+U00414,68,12,aggressive,Financials,medium
+U00415,27,8,aggressive,Consumer,short
+U00416,61,2,conservative,Energy,medium
+U00417,23,1,balanced,Financials,long
+U00418,36,0,conservative,Consumer,medium
+U00419,57,15,balanced,Utilities,medium
+U00420,39,1,conservative,Technology,medium
+U00421,37,6,conservative,Utilities,medium
+U00422,59,9,balanced,Consumer,long
+U00423,37,1,conservative,Healthcare,medium
+U00424,46,6,balanced,Technology,long
+U00425,55,14,balanced,Technology,long
+U00426,69,7,balanced,Real Estate,long
+U00427,51,5,conservative,Financials,medium
+U00428,41,7,conservative,Healthcare,long
+U00429,45,6,conservative,Technology,long
+U00430,35,1,aggressive,Industrials,medium
+U00431,42,10,balanced,Technology,medium
+U00432,57,4,balanced,Financials,medium
+U00433,62,9,balanced,Healthcare,long
+U00434,63,12,balanced,Healthcare,medium
+U00435,30,2,aggressive,Healthcare,medium
+U00436,26,5,conservative,Industrials,medium
+U00437,60,3,conservative,Financials,medium
+U00438,30,10,balanced,Consumer,medium
+U00439,30,15,balanced,Utilities,medium
+U00440,31,11,balanced,Technology,medium
+U00441,52,5,conservative,Healthcare,medium
+U00442,35,3,balanced,Consumer,long
+U00443,34,1,balanced,Industrials,medium
+U00444,55,15,balanced,Technology,medium
+U00445,67,3,aggressive,Utilities,short
+U00446,55,11,balanced,Real Estate,medium
+U00447,60,8,balanced,Utilities,long
+U00448,32,0,conservative,Energy,medium
+U00449,64,15,balanced,Consumer,long
+U00450,57,7,conservative,Technology,long
+U00451,27,1,conservative,Real Estate,long
+U00452,70,7,aggressive,Energy,short
+U00453,22,13,aggressive,Consumer,short
+U00454,32,9,balanced,Real Estate,long
+U00455,55,4,conservative,Real Estate,long
+U00456,64,2,conservative,Industrials,medium
+U00457,65,8,balanced,Technology,long
+U00458,29,0,conservative,Consumer,medium
+U00459,23,11,balanced,Real Estate,long
+U00460,64,3,balanced,Healthcare,long
+U00461,53,4,aggressive,Industrials,medium
+U00462,63,9,aggressive,Technology,short
+U00463,29,11,balanced,Utilities,medium
+U00464,65,11,balanced,Financials,long
+U00465,55,1,conservative,Industrials,medium
+U00466,39,6,conservative,Healthcare,long
+U00467,53,2,aggressive,Energy,short
+U00468,24,7,balanced,Technology,medium
+U00469,35,1,balanced,Utilities,medium
+U00470,47,12,balanced,Industrials,medium
+U00471,55,11,aggressive,Healthcare,short
+U00472,65,3,conservative,Energy,long
+U00473,53,14,balanced,Real Estate,long
+U00474,39,1,conservative,Energy,long
+U00475,43,0,conservative,Healthcare,long
+U00476,24,3,conservative,Energy,long
+U00477,57,3,balanced,Industrials,medium
+U00478,29,13,aggressive,Financials,medium
+U00479,68,2,conservative,Healthcare,long
+U00480,64,5,balanced,Utilities,long
+U00481,56,0,conservative,Real Estate,medium
+U00482,56,0,conservative,Utilities,long
+U00483,60,1,balanced,Industrials,medium
+U00484,39,5,conservative,Healthcare,long
+U00485,37,9,aggressive,Industrials,medium
+U00486,37,15,balanced,Energy,long
+U00487,57,6,conservative,Utilities,long
+U00488,25,15,balanced,Energy,medium
+U00489,67,8,balanced,Technology,long
+U00490,38,14,aggressive,Consumer,short
+U00491,25,3,conservative,Energy,long
+U00492,33,1,balanced,Real Estate,long
+U00493,64,3,conservative,Consumer,long
+U00494,51,2,balanced,Energy,long
+U00495,22,13,balanced,Technology,long
+U00496,27,5,conservative,Industrials,medium
+U00497,30,11,aggressive,Healthcare,short
+U00498,44,15,balanced,Industrials,long
+U00499,54,11,aggressive,Industrials,short
+U00500,40,2,conservative,Healthcare,long
+U00501,43,1,balanced,Consumer,medium
+U00502,46,1,conservative,Financials,medium
+U00503,46,10,balanced,Energy,medium
+U00504,23,3,conservative,Real Estate,long
+U00505,68,3,balanced,Healthcare,medium
+U00506,55,14,balanced,Utilities,medium
+U00507,36,9,balanced,Consumer,medium
+U00508,53,14,aggressive,Healthcare,short
+U00509,41,11,aggressive,Healthcare,short
+U00510,29,8,aggressive,Real Estate,short
+U00511,69,7,conservative,Consumer,long
+U00512,37,2,conservative,Real Estate,long
+U00513,22,5,conservative,Financials,long
+U00514,59,9,balanced,Real Estate,medium
+U00515,41,3,balanced,Consumer,long
+U00516,50,8,aggressive,Utilities,medium
+U00517,60,3,balanced,Consumer,long
+U00518,69,11,aggressive,Consumer,short
+U00519,59,14,aggressive,Consumer,medium
+U00520,39,7,balanced,Energy,medium
+U00521,50,6,conservative,Technology,medium
+U00522,38,11,aggressive,Energy,short
+U00523,21,11,balanced,Energy,medium
+U00524,52,0,conservative,Real Estate,long
+U00525,35,5,conservative,Utilities,medium
+U00526,63,2,balanced,Energy,medium
+U00527,68,9,balanced,Financials,medium
+U00528,41,11,balanced,Energy,medium
+U00529,54,5,aggressive,Utilities,short
+U00530,40,2,balanced,Healthcare,medium
+U00531,32,6,conservative,Consumer,medium
+U00532,46,2,conservative,Technology,long
+U00533,38,14,balanced,Financials,medium
+U00534,67,7,conservative,Real Estate,long
+U00535,30,5,conservative,Energy,long
+U00536,22,5,conservative,Industrials,medium
+U00537,48,5,conservative,Technology,medium
+U00538,59,12,balanced,Consumer,long
+U00539,54,15,balanced,Industrials,long
+U00540,38,1,conservative,Technology,medium
+U00541,25,4,aggressive,Technology,medium
+U00542,24,10,aggressive,Consumer,medium
+U00543,42,12,balanced,Financials,medium
+U00544,25,9,aggressive,Consumer,short
+U00545,49,1,aggressive,Financials,short
+U00546,34,0,conservative,Financials,long
+U00547,68,11,aggressive,Technology,short
+U00548,69,11,balanced,Energy,medium
+U00549,32,2,conservative,Real Estate,medium
+U00550,65,7,conservative,Energy,medium
+U00551,68,8,aggressive,Consumer,short
+U00552,43,4,balanced,Financials,long
+U00553,41,14,aggressive,Healthcare,medium
+U00554,23,8,balanced,Consumer,medium
+U00555,33,3,aggressive,Technology,short
+U00556,57,15,balanced,Consumer,medium
+U00557,28,13,aggressive,Healthcare,medium
+U00558,42,1,conservative,Utilities,medium
+U00559,60,10,balanced,Utilities,medium
+U00560,51,10,balanced,Financials,medium
+U00561,39,6,balanced,Financials,long
+U00562,61,15,balanced,Real Estate,medium
+U00563,38,13,balanced,Industrials,long
+U00564,25,3,conservative,Consumer,medium
+U00565,52,6,balanced,Technology,long
+U00566,25,15,balanced,Real Estate,long
+U00567,23,5,conservative,Utilities,long
+U00568,37,7,conservative,Technology,long
+U00569,45,6,aggressive,Consumer,medium
+U00570,62,9,balanced,Financials,long
+U00571,62,7,conservative,Utilities,medium
+U00572,61,0,conservative,Industrials,long
+U00573,22,2,aggressive,Financials,medium
+U00574,69,3,balanced,Technology,medium
+U00575,49,14,aggressive,Utilities,medium
+U00576,31,13,aggressive,Utilities,medium
+U00577,22,7,aggressive,Healthcare,medium
+U00578,66,2,conservative,Financials,medium
+U00579,21,0,conservative,Utilities,medium
+U00580,57,2,aggressive,Utilities,medium
+U00581,25,1,balanced,Healthcare,medium
+U00582,47,12,aggressive,Healthcare,short
+U00583,66,12,balanced,Technology,long
+U00584,68,0,conservative,Utilities,medium
+U00585,60,11,balanced,Healthcare,medium
+U00586,56,2,aggressive,Financials,medium
+U00587,24,3,aggressive,Healthcare,short
+U00588,49,9,balanced,Consumer,medium
+U00589,25,7,balanced,Consumer,medium
+U00590,61,9,balanced,Technology,medium
+U00591,49,2,balanced,Energy,long
+U00592,33,12,balanced,Healthcare,long
+U00593,24,11,balanced,Healthcare,medium
+U00594,56,11,balanced,Energy,medium
+U00595,68,10,balanced,Consumer,long
+U00596,70,2,conservative,Utilities,medium
+U00597,43,8,balanced,Technology,long
+U00598,49,3,aggressive,Industrials,medium
+U00599,34,7,conservative,Real Estate,long
+U00600,35,12,balanced,Technology,long
