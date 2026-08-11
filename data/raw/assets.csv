@@ -1,0 +1,61 @@
+ticker,company_name,sector,annual_return,volatility,beta,pe_ratio,dividend_yield,market_cap_billion
+FAS001,Synthetic Capital 001,Technology,0.2314,0.4327,1.435,14.52,0.0156,255.85
+FAS002,Synthetic Capital 002,Utilities,0.1053,0.2034,0.822,23.16,0.0207,93.67
+FAS003,Synthetic Capital 003,Consumer,0.0825,0.1939,0.706,19.23,0.0339,20.14
+FAS004,Synthetic Capital 004,Energy,0.0936,0.1668,0.827,51.52,0.0323,14.03
+FAS005,Synthetic Capital 005,Energy,0.0422,0.2954,1.162,40.77,0.0196,46.73
+FAS006,Synthetic Capital 006,Utilities,0.0727,0.3416,1.533,23.89,0.0264,11.11
+FAS007,Synthetic Capital 007,Technology,0.041,0.2297,1.052,14.25,0.0346,20.8
+FAS008,Synthetic Capital 008,Consumer,0.0377,0.1644,1.043,12.18,0.049,64.42
+FAS009,Synthetic Capital 009,Financials,0.122,0.1658,0.823,34.33,0.0354,169.91
+FAS010,Synthetic Capital 010,Technology,0.0902,0.2986,0.999,22.61,0.0159,90.63
+FAS011,Synthetic Capital 011,Industrials,0.1247,0.3069,1.05,24.93,0.0192,3.23
+FAS012,Synthetic Capital 012,Real Estate,0.2191,0.2889,1.048,9.16,0.0254,63.86
+FAS013,Synthetic Capital 013,Consumer,0.0817,0.1801,1.247,30.49,0.0368,48.89
+FAS014,Synthetic Capital 014,Utilities,0.1756,0.2609,0.975,24.64,0.0165,72.43
+FAS015,Synthetic Capital 015,Consumer,0.0717,0.2505,1.202,12.19,0.0283,288.68
+FAS016,Synthetic Capital 016,Utilities,0.1186,0.2597,0.96,16.25,0.0285,4.2
+FAS017,Synthetic Capital 017,Industrials,0.0944,0.3184,1.358,22.62,0.0426,22.8
+FAS018,Synthetic Capital 018,Financials,0.1107,0.2601,1.154,20.57,0.0433,88.78
+FAS019,Synthetic Capital 019,Utilities,0.1958,0.3011,1.159,17.61,0.0142,7.3
+FAS020,Synthetic Capital 020,Energy,0.0225,0.2461,1.061,19.17,0.0253,245.67
+FAS021,Synthetic Capital 021,Industrials,0.1592,0.266,1.01,17.93,0.0126,68.74
+FAS022,Synthetic Capital 022,Healthcare,0.1581,0.2968,1.24,21.51,0.017,119.13
+FAS023,Synthetic Capital 023,Financials,0.0425,0.1089,0.71,38.95,0.0459,23.34
+FAS024,Synthetic Capital 024,Real Estate,0.0272,0.2112,0.81,6.33,0.0426,114.72
+FAS025,Synthetic Capital 025,Utilities,0.1135,0.1977,0.773,18.05,0.0267,153.76
+FAS026,Synthetic Capital 026,Consumer,0.0721,0.1825,0.959,21.75,0.029,58.82
+FAS027,Synthetic Capital 027,Energy,0.1293,0.2152,1.239,22.95,0.012,58.92
+FAS028,Synthetic Capital 028,Utilities,0.1724,0.3745,1.361,16.99,0.0123,61.41
+FAS029,Synthetic Capital 029,Industrials,0.1928,0.1621,0.873,9.11,0.0276,16.67
+FAS030,Synthetic Capital 030,Energy,0.1401,0.3271,1.28,23.28,0.0142,37.98
+FAS031,Synthetic Capital 031,Energy,0.0096,0.0885,0.932,43.7,0.0374,37.76
+FAS032,Synthetic Capital 032,Financials,0.1242,0.2099,1.024,10.07,0.0311,69.93
+FAS033,Synthetic Capital 033,Technology,0.1423,0.2546,1.023,29.63,0.0112,142.09
+FAS034,Synthetic Capital 034,Industrials,0.224,0.2928,1.331,17.33,0.0096,13.32
+FAS035,Synthetic Capital 035,Real Estate,0.1965,0.304,1.253,19.54,0.0407,38.97
+FAS036,Synthetic Capital 036,Technology,0.1704,0.3114,1.434,12.51,0.0092,247.23
+FAS037,Synthetic Capital 037,Utilities,0.2008,0.2086,1.016,17.28,0.0222,19.14
+FAS038,Synthetic Capital 038,Utilities,0.0381,0.1984,0.783,36.05,0.0497,17.48
+FAS039,Synthetic Capital 039,Healthcare,0.1126,0.3172,1.011,26.11,0.0463,56.79
+FAS040,Synthetic Capital 040,Consumer,0.0624,0.2228,1.265,43.8,0.0199,118.83
+FAS041,Synthetic Capital 041,Financials,0.0604,0.1252,1.071,34.12,0.0379,45.6
+FAS042,Synthetic Capital 042,Utilities,0.0057,0.138,0.813,24.47,0.0429,207.47
+FAS043,Synthetic Capital 043,Consumer,0.1331,0.1572,0.823,44.03,0.0533,120.54
+FAS044,Synthetic Capital 044,Healthcare,0.1263,0.2847,1.367,24.47,0.0148,118.48
+FAS045,Synthetic Capital 045,Technology,0.0402,0.2528,0.915,29.15,0.025,85.11
+FAS046,Synthetic Capital 046,Real Estate,0.0848,0.3021,1.05,17.58,0.0288,654.23
+FAS047,Synthetic Capital 047,Energy,0.1294,0.2015,1.07,20.7,0.0367,35.54
+FAS048,Synthetic Capital 048,Real Estate,0.1793,0.2543,1.025,14.68,0.0236,4.49
+FAS049,Synthetic Capital 049,Consumer,0.2635,0.2963,1.171,31.35,0.0212,284.73
+FAS050,Synthetic Capital 050,Utilities,0.2891,0.2122,0.971,11.82,0.0193,26.58
+FAS051,Synthetic Capital 051,Utilities,0.1633,0.2811,1.191,28.56,0.0219,50.94
+FAS052,Synthetic Capital 052,Financials,0.0438,0.1804,1.14,18.43,0.0328,202.89
+FAS053,Synthetic Capital 053,Healthcare,-0.0154,0.2073,0.999,34.02,0.0343,7.13
+FAS054,Synthetic Capital 054,Energy,0.128,0.2056,1.078,28.16,0.0274,10.67
+FAS055,Synthetic Capital 055,Energy,0.0376,0.1324,0.52,45.57,0.0447,7.14
+FAS056,Synthetic Capital 056,Technology,0.1144,0.2838,1.139,27.91,0.0329,18.05
+FAS057,Synthetic Capital 057,Industrials,0.0725,0.1978,0.839,9.9,0.0346,74.61
+FAS058,Synthetic Capital 058,Financials,0.1159,0.2411,0.874,19.49,0.0316,82.23
+FAS059,Synthetic Capital 059,Consumer,0.2031,0.2833,1.013,11.85,0.0243,61.83
+FAS060,Synthetic Capital 060,Consumer,0.1475,0.2802,1.088,15.91,0.0242,8.86
